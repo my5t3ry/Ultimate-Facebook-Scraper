@@ -1,0 +1,3 @@
+[console_scripts]
+ultimate-facebook-scraper = scraper.__main__:scraper
+

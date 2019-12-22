@@ -1,0 +1,11 @@
+README.md
+setup.py
+scraper/__init__.py
+scraper/__main__.py
+scraper/scraper.py
+ultimate_facebook_scraper.egg-info/PKG-INFO
+ultimate_facebook_scraper.egg-info/SOURCES.txt
+ultimate_facebook_scraper.egg-info/dependency_links.txt
+ultimate_facebook_scraper.egg-info/entry_points.txt
+ultimate_facebook_scraper.egg-info/requires.txt
+ultimate_facebook_scraper.egg-info/top_level.txt
